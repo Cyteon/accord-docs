@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.dark {
+    --background: 231.82 23.4% 18.43%;
+    --accent: 230.4 18.8% 26.08%;
+    --text: 227.44 68.25% 87.65%;
+    --border: 230.32 12.35% 49.22%;
+    --card: 233.33 23.08% 15.29%;
+    --input: 235.71 22.58% 12.16%;
+    --primary: 40.25 69.91% 77.84%;
+    --primary-foreground: 235.71 22.58% 12.16%;
+}
+
+.light {
+}
